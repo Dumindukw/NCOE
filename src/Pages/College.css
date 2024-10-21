@@ -1,0 +1,20 @@
+.CollegeP{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800;
+    color: rgb(25, 10, 224);
+}  
+.container{
+    display: flex;
+    justify-content: center;
+    height: 40vh;
+}  
+.college-image {
+    max-width: 100%;
+    height: auto;
+}
+.collegepara{
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+.CourseP{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800;
+    color: rgb(25, 10, 224);
+    
+}
+.ol{
+    font-size: 30px;
+    text-align: center;
+    list-style-position: inside;
+    padding-left: 0;
+}
+.coursetopic{
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+}
+.coursedescrip{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+    font-style: oblique;
+}
+.coursedetails{
+    font-size: 20px;
+    display: flow-root;
+    text-align: center;
+    font-weight: 600;
+}

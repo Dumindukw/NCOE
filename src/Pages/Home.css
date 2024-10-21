@@ -1,0 +1,32 @@
+.foot {
+  background-color: #d5d7da;
+  padding: 40px 0;
+}
+
+.foot-section {
+  margin-bottom: 30px;
+}
+
+.foot-section h3 {
+  font-size: 34px;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.foot-section p {
+  font-size: 22px;
+  color: #5b6268;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.foot-heading{
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+  margin-right: 50px;
+}
