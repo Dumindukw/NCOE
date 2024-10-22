@@ -1,6 +1,5 @@
 import React from 'react'
 import './AcadamicStaff.css'
-import president from '../Images/president.jpg'
 
 export default function AcadamicStaff() {
   return (
