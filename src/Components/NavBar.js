@@ -18,6 +18,8 @@ export default function NavBar() {
           <Link className="NavBar" to="/Photos">PHOTOS</Link>
         
           <Link className="NavBar" to="/Contact">CONTACT</Link>
+
+          <Link className="NavBar" to="/AdminLogin">Admin Login</Link>
     </nav>
     </div>
   )

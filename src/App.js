@@ -8,13 +8,14 @@ import College from './Pages/College';
 import AcadamicStaff from './Pages/AcadamicStaff';
 import Photos from './Pages/Photos';
 import Contact from './Pages/Contact';
-import Col from 'react-bootstrap/Col'
 import Home from './Pages/Home';
 import Footer from './Components/Footer';
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 import Imageslider from './Pages/Imageslider';
 import Frontview from './Pages/Frontview';
+import AdminLogin from './Pages/AdminLogin';
+import AdminDashboard from './Pages/AdminDashboard';
 
 function App() {
   return (
@@ -32,6 +33,8 @@ function App() {
           <Route path="/Contact" element={<Contact/>}/>
           <Route path="/Photos" element={<Photos/>}/>
           <Route path="/AcadamicStaff" element={<AcadamicStaff/>}/>
+          <Route path="/AdminLogin" element={<AdminLogin/>}/>
+          <Route path="/AdminDashboard" element={<AdminDashboard/>}/>
         </Routes>
         <br></br>
         <br></br>
